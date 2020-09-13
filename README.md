@@ -1,6 +1,6 @@
 # TNT_Craft launcher
 *Launcher for TNT_Craft server created by RandomTNT*
-
+[![GitHub issues](https://img.shields.io/github/issues/RandomTNT/TNT_Craft-Launcher)](https://github.com/RandomTNT/TNT_Craft-Launcher/issues)
 Rules of publishing (GitHub)
 1. No bad words, nor racist words.
 2. No bad nor non-logic code
