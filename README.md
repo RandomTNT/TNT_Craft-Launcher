@@ -8,6 +8,7 @@ Rules of publishing (GitHub)
 2. No bad nor non-logic code
 3. All non-logic issues or Pull requests is gonna be closed, and deleted.
 4. Be nice and do good coding!  :smile: (Ps. for OMEGA good coding you gonna get prize, for it just print your minecraft or TNT_Craft nicknames)
+
 Rules of publishing (TNT_Craft's workshop)
 1. Bad workshop items or contracts is going to be in Rejected status forever
 2. Hell contracts/items (like 1 sec on server = 99k credits) is going to be deleted and the creator(s) gonna be banned.
