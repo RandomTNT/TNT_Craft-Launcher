@@ -14,9 +14,3 @@ Rules of publishing (TNT_Craft's workshop)
 2. Hell contracts/items (like 1 sec on server = 99k credits) is going to be deleted and the creator(s) gonna be banned.
 3. Bad word things on workshop is banned, so the account is gonna to be deleted
 4. Have a great time coding and modeling!
-
-TNT_Craft workshop tools
-Tools is good, but do not steal it, its bad and the tools cannot be used if its a pirated version.
-1.Model code editor
-2. Model creator/animator
-3. Workshop Publisher
