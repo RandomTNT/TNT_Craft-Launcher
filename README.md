@@ -1,6 +1,5 @@
 # TNT_Craft launcher
 *Launcher for TNT_Craft server created by RandomTNT*
-
 [![GitHub issues](https://img.shields.io/github/issues/RandomTNT/TNT_Craft-Launcher)](https://github.com/RandomTNT/TNT_Craft-Launcher/issues)
 
 Rules of publishing (GitHub)
@@ -12,5 +11,6 @@ Rules of publishing (GitHub)
 Rules of publishing (TNT_Craft's workshop)
 1. Bad workshop items or contracts is going to be in Rejected status forever
 2. Hell contracts/items (like 1 sec on server = 99k credits) is going to be deleted and the creator(s) gonna be banned.
-3. Bad word things on workshop is banned, so the account is gonna to be deleted
-4. Have a great time coding and modeling!
+3. Bad word things on workshop is banned, so the account is gonna to be punished
+4. phashizm not allowed
+5. Have a great time coding and modeling!
